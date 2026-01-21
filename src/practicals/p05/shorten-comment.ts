@@ -5,8 +5,10 @@ export function shortenComment(comment: string): string {
   
   for (let i = 5; i < comment.length; i++) {
     console.log()
-  //  if (comment.length<5){
-    
-  //  }
+    if (comment.length>10){
+     comment.slice
+   }else if (comment.length<5){
+    comment.slice
+   }else console.log(comment)
   }
 }return

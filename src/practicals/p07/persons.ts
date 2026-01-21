@@ -4,7 +4,11 @@ interface Person {
   age?: number;
 }
 
-export function sortPersons(persons: Person[]): Person[] {}
+export function sortPersons(persons: Person[]): Person[] {
+  if (== ""){
+
+  }
+}
 
 
 const persons: Person[] = [
@@ -16,6 +20,5 @@ const persons: Person[] = [
   { firstName: "Jane", lastName: "Smith", age: -5 },
   { lastName: "NoName", age: 40 }
 ];
-if 
 
-}
+
