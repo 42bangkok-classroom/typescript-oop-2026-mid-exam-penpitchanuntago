@@ -11,4 +11,4 @@ export function shortenComment(comment: string): string {
     comment.slice
    }else console.log(comment)
   }
-}return
+}
