@@ -16,6 +16,6 @@ const persons: Person[] = [
   { firstName: "Jane", lastName: "Smith", age: -5 },
   { lastName: "NoName", age: 40 }
 ];
-if () {
+if 
 
-}else
+}
