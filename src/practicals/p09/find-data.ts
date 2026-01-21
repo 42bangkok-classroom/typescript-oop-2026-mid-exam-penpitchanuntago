@@ -1,3 +1,12 @@
-function findData(fileName: string, key: string, value: string | number): void {
-  
-}
+import products from "./datasets/products.json"
+import users from "./datasets/users.json"
+console.log(products)
+console.log(users)
+// export function findData(fileName: string, key: string, value: string | number): void {
+//     try {
+//         if
+//     products = 
+//     } catch (error) {
+//         console.log([])
+//     }
+// }
